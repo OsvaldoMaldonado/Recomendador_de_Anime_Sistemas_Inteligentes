@@ -1,6 +1,7 @@
 # Recomendador de Anime
 
-Proyecto Final de Sistemas Inteligentes
+Proyecto Final de la materia: Sistemas Inteligentes
+
 Integrantes:
   - Edgar Osvaldo Maldonado Campos
   - Alejandro Arriaga Perales
